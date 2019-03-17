@@ -3,7 +3,7 @@
   "name": "Private Search",
   "version": "1.0",
   "permissions": ["contextMenus", "search"],
-  "description": "Adds a menu option to search selected text in a Private Window.",
+  "description": "Adds a context menu option to search the selected text in a new Private Window using your default search engine.",
   "icons": {
     "48": "icons/icon-48.png",
     "96": "icons/icon-96.png"
