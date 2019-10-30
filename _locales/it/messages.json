@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "message": "Aggiunge al menu un opzione per cercare il testo selezionato in una finestra anonima usando il tuo motore di ricerca preferito.",
+    "description": "Description of the extension."
+  },
+  "menuEntryText": {
+    "message": "&Cerca '%s' in finestra anonima",
+    "description": "Text for the context menu entry."
+  }
+}

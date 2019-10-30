@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "message": "Adds a context menu option to search the selected text in a new Private Window using your default search engine.",
+    "description": "Description of the extension."
+  },
+  "menuEntryText": {
+    "message": "&Private serach for '%s'",
+    "description": "Text for the context menu entry."
+  }
+}
