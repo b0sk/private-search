@@ -17,7 +17,7 @@ function onError(error) {
 
 browser.contextMenus.create({
   id: "private-search",
-  title: "&Private serach for '%s'",
+  title: browser.i18n.getMessage("menuEntryText"),
   contexts: ["selection"]
 });
 
