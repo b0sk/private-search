@@ -4,7 +4,7 @@
     "description": "Description of the extension."
   },
   "menuEntryText": {
-    "message": "&Private serach for '%s'",
+    "message": "&Private search for '%s'",
     "description": "Text for the context menu entry."
   }
 }
